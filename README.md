@@ -1,10 +1,24 @@
-- 👋 Hi, I’m Dheeraj Pandey
-- 👀 I’m interested in ...
-- 🌱 I’m currently working @odoo as Software Engineer Intern
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me , dp151439@gmail.com
+### Hey 👋, I'm Dheeraj Pandey
 
-<!---
-padh-odoo/padh-odoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="#">
+  <img align="left" alt="Dheeraj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Dheeraj's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
+**Talking about Personal Stuff:**
+
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently working at Odoo India.
+- 📫 Reach me at dp151439@gmail.com
+
+
+
+
+#### Show some ❤️     by starring some of my repositories!
+
+

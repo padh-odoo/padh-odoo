@@ -14,7 +14,7 @@
 
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently working at Odoo India.
-- 📫 Reach me at dp151439@gmail.com
+- 📫 Reach me at dheerajsde0@gmail.com
 
 
 
